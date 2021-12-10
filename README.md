@@ -30,7 +30,7 @@ Step 3. Add Method like in Your Working class
        These method return the addition,subtracyion,multiplication and division of two numbers,firstNum and secondNum are the two parameters of the function. 
        You can take values  from editText and pass the parameters.
        
-Step 5. Important Point:
+Step 4. Important Point:
         
 	These method return the addition,subtracyion,multiplication and division of two numbers,
 	firstNum and secondNum are the two parameters of the function. 
@@ -38,6 +38,6 @@ Step 5. Important Point:
 
 
        
-Step 4.Issues:
+Step 5.Issues:
       
       If you have any issues reagrding this library just create a issue. 
