@@ -5,8 +5,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.toastermessage.ToasterMessage;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
